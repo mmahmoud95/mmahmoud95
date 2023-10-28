@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mustafa Mahmoud</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Egypt</h3>
+<h1 align="left">Hi 👋, I'm Mustafa Mahmoud</h1>
+<h3 align="left">A passionate Full-Stack Web Developer from Egypt</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mmahmoud95&label=Profile%20views&color=0e75b6&style=flat" alt="mmahmoud95" /> </p>
 
@@ -15,8 +15,8 @@
 
 -   📄 Know about my experiences [https://www.linkedin.com/in/mustafa-mahmoud-za](https://www.linkedin.com/in/mustafa-mahmoud-za)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/mustafa-mahmoud-za" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-mahmoud-za" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mmahmoud507/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mmahmoud507/" height="30" width="40" /></a>
 </p>
