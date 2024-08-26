@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmahmoud95" alt="mmahmoud95" /></a> </p> -->
 
-- 🔭 I’m currently working as a **Teaching Assistant at Hsoub Academy** [https://academy.hsoub.com]
+- 🔭 I’m currently working as a **Teaching Assistant at Hsoub Academy [https://academy.hsoub.com]** 
 
 -   💬 Ask me about **ReactJs, Nextjs, Nodejs, Expressjs, MongoDB**
 
