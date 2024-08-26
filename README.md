@@ -5,13 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmahmoud95" alt="mmahmoud95" /></a> </p> -->
 
--   🔭 I’m currently working on **Amazon-clone-project**
+- 🔭 I’m currently working as a **Teaching Assistant at Hsoub Academy** [https://academy.hsoub.com]
 
--   🌱 I’m currently learning **Angular**
+-   💬 Ask me about **ReactJs, Nextjs, Nodejs, Expressjs, MongoDB**
 
--   💬 Ask me about **ReactJs, Nodejs**
-
--   📫 How to reach me **mustafamhmod95@gmail.com**
+-   📫 How to reach me **mustafa.mahmoud.za@gmail.com** 
 
 -   📄 Know about my experiences [https://www.linkedin.com/in/mustafa-mahmoud-za](https://www.linkedin.com/in/mustafa-mahmoud-za)
 
